@@ -58,7 +58,5 @@ Please refer original paper (https://arxiv.org/abs/1903.12296)
 Results
 -----
 
-<center>Summer <-> Winter</center>  
-
 ![ex_screenshot](./sample/Sample1.png)
 ![ex_screenshot](./sample/Sample2.png)
