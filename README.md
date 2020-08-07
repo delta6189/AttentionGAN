@@ -60,5 +60,5 @@ Results
 
 <center>Summer <-> Winter</center>  
 
-![ex_screenshot](./sample/sample1.png)
-![ex_screenshot](./sample/sample2.png)
+![ex_screenshot](./sample/Sample1.png)
+![ex_screenshot](./sample/Sample2.png)
