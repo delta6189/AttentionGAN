@@ -51,7 +51,7 @@ Training details
 Model details
 ------
 
-Please refer original the paper (https://arxiv.org/abs/1903.12296)
+Please refer the original paper (https://arxiv.org/abs/1903.12296)
  
 
  
