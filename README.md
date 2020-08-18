@@ -48,10 +48,10 @@ Training details
 | HW | CPU : Intel i5-8400<br>RAM : 16G<br>GPU : NVIDIA GTX1060 6G |
 | Training Time | About 20 hours for 100 epoch |
 
-Model
+Model details
 ------
 
-Please refer original paper (https://arxiv.org/abs/1903.12296)
+Please refer original the paper (https://arxiv.org/abs/1903.12296)
  
 
  
